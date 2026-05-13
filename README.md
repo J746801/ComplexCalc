@@ -6,7 +6,7 @@ For more basic use, 2\*4 means 2 multiplied by 4, 16/4 means 16 divided by 4, 37
 There are two ways to add variables: one is to simply type \<variablename> = \<value/expression> directly in the Variables window. The other way is to type the same thing in the main window and then press Enter. Either way you can use a mathematical expression to define the value of the variable.
 
 # Complex Use
-If you know anything about the python math library than you can use math.\<function>(\<value(s)>) in the calculator, like math.ceil(2.071), for example. Otherwise, you can find information about it here: https://www.w3schools.com/python/module_math.asp . You can also use the operators <, >, &, and you can make dictionaries and lists.
+If you know anything about the python math library than you can use math.\<function>(\<value(s)>) in the calculator, like math.ceil(2.071), for example. Otherwise, you can find information about it here: https://www.w3schools.com/python/module_math.asp . You can also use the operators <, >, &, +=, -=, *=, and /=, and you can make dictionaries and lists.
 
 # Notes
 1. ComplexCalc.exe is version 1.0 and only works on Windows, and also has a few bugs. The other versions will be in appropriately named folders when they are released and inside the folders will be Windows, Linux and Mac versions.
