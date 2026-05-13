@@ -1,7 +1,7 @@
 # Calculator With Variables
 This is a calculator that can work with variables that you can set and some that are built in, like pi, e (Euler's number), tau, and inf (infinity). It can also use built-in python functions and the functions from the python math module.
 # Simple Use
-For more basic use, 2\*4 means 2 multiplied by 4, 16/4 means 16 divided by 4, 37-13 means 37 minus 13, 29+16 means 29 plus 16, 2^4 means 2 to the power of 4, or 2\*2\*2\*2, and 8%3 returns the remainder of 8/3, which is 2. At any time, pressing Enter adds the current answer to the History window.
+For more basic use, 2\*4 means 2 multiplied by 4, 16/4 means 16 divided by 4, 37-13 means 37 minus 13, 29+16 means 29 plus 16, 2^4 means 2 to the power of 4, or 2\*2\*2\*2, and 8%3 returns the remainder of 8/3, which is 2. At any time, pressing Enter adds the current answer to the History window. Delete clears the entry window. You can remove variables by simply going to the Variables window and removing them from the list.
 
 There are two ways to add variables: one is to simply type \<variablename> = \<value/expression> directly in the Variables window. The other way is to type the same thing in the main window and then press Enter. Either way you can use a mathematical expression to define the value of the variable.
 
@@ -14,6 +14,6 @@ If you know anything about the python math library than you can use math.\<funct
 3. Allowed symbols for use: +, -, *, /, %, ^ (does what ** normally does in python, so the normal function of ^ is unavailable), &, ~, |, =, [ and ], { and }, >, < (although currently you cannot use >=, <=, != or ==).
 4. If you know python, you may create lists and dictionaries using [, ], {, and }.
 5. Currently, you must use a space before and after [ and ] when referencing lists and dictionaries.
-6. If you accidentally change the value of pi, e, tau, or inf, they fix themselves.
+6. If you accidentally change the value of pi, e, tau, or inf (for example by typing pi=81 and prssing Enter), they fix themselves if you press any key except Delete (though it will still display the correct value in the answer, it will not in the Variables window). If you press Delete just type pi=, e=, tau=, or inf= and they will fix themselves.
 7. Currently, ** and // do not work.
 8. I plan on eventually having unit conversions and more built-in.
