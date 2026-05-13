@@ -9,7 +9,7 @@ There are two ways to add variables: one is to simply type \<variablename> = \<v
 If you know anything about the python math library than you can use math.\<function>(\<value(s)>) in the calculator, like math.ceil(2.071), for example. Otherwise, you can find information about it here: https://www.w3schools.com/python/module_math.asp . You can also use the operators <, >, &, +=, -=, *=, and /=, and you can make dictionaries and lists.
 
 # Notes
-1. ComplexCalc.exe is version 1.0 and only works on Windows, and also has a few bugs. The other versions will be in appropriately named folders when they are released and inside the folders will be Windows, Linux and Mac versions.
+1. ComplexCalc.exe (not in a folder) is version 1.0 and only works on Windows, and also has a few bugs. The other versions will be in appropriately named folders when they are released and inside the folders will be Windows, Linux and Mac versions.
 2. You cannot use underscores or symbols in variable names.
 3. Allowed symbols for use: +, -, *, /, %, ^ (does what ** normally does in python, so the normal function of ^ is unavailable), &, ~, |, =, [ and ], { and }, >, < (although currently you cannot use >=, <=, != or ==).
 4. If you know python, you may create lists and dictionaries using [, ], {, and }.
