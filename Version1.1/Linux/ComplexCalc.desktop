@@ -1,9 +1,0 @@
-[Desktop Entry]
-Name=ComplexCalc
-Comment=A calculator that can store variables and has all the functions of the python math and cmath libraries
-Exec=/home/joseph/picokitadv/ComplexCalc.bin
-Icon=/home/joseph/picokitadv/CompCalcIcon.svg
-Terminal=false
-Type=Application
-Categories=Utility;Application;
-GenericName=Calculator
