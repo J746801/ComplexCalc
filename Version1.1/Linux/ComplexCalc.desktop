@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=ComplexCalc
+Comment=A calculator that can store variables and has all the functions of the python math and cmath libraries
+Exec=/bin/ComplexCalc.bin
+Icon=/usr/share/icons/hicolor/scalable/apps/CompCalcIcon.svg
+Terminal=false
+Type=Application
+Categories=Utility;Application;
+GenericName=Calculator
+StartupNotify=false
