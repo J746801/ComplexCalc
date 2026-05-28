@@ -1,0 +1,8 @@
+1. Fixed problem where you could not use _ in variable names
+2. Fixed probled where you had to use a space before/after [ and ]
+3. Fixed problem where you could not use ^ for what it would normally do in python because it did the same thing as **
+4. Fixed problem where you could not use ==, <=, >=, !=, ** or //
+5. Added the python module cmath to the calculator
+6. Added a custom function roots(number, root) to the calculator
+7. Changed the title to show the version (1.1)
+8. Fixed a few other small bugs
