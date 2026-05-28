@@ -1,0 +1,4 @@
+1. Fixed annoying bug where typing only 'roots' or 'math' or stuff would make the answer be somehing like '<compiled_function roots at 0x0000021F4CFBA020>'
+2. Fixed issue in Linux version of there being no icon on the taskbar when the app is open
+3. Added function so that when you type a function, like 'roots' or 'sqrt', it shows the arguments needed
+4. Added function so that when you type 'math' or 'cmath' the answer shows 'Python module <math/cmath>'
