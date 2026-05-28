@@ -2,3 +2,4 @@
 2. Fixed issue in Linux version of there being no icon on the taskbar when the app is open
 3. Added function so that when you type a function, like 'roots' or 'sqrt', it shows the arguments needed
 4. Added function so that when you type 'math' or 'cmath' the answer shows 'Python module <math/cmath>'
+5. Shortened the words on the title bar from ComplexCalc Version <version> to ComplexCalc V<version>. In other words, ComplexCalc V1.2
