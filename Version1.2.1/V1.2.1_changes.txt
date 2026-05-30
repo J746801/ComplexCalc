@@ -1,0 +1,1 @@
+1. Fixed issue where, when you type somethinglike 'sqrt' the answer would show 'Args: (x, /)'. Now it shows 'Args: (x)'.
